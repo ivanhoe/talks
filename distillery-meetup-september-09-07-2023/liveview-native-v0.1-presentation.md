@@ -36,11 +36,15 @@ build-lists: true
 
 - Dockyard team
   - Brian Cardarella
+  - May Mathi
   - Brooklin Meyers
   - Carson Katri
-  - May Mathi
 
-![right](https://res.cloudinary.com/dgh1qklpq/image/upload/v1694128488/brian_k23zhq.jpg)
+---
+
+# Who?
+
+![inline fill](https://res.cloudinary.com/dgh1qklpq/image/upload/v1694128488/brian_k23zhq.jpg)![inline fill](https://res.cloudinary.com/dgh1qklpq/image/upload/v1694224206/may-mathi_l4fvvl.jpg)![inline fill](https://res.cloudinary.com/dgh1qklpq/image/upload/v1694224206/carson-catri_pdjr3n.jpg)![inline fill](https://res.cloudinary.com/dgh1qklpq/image/upload/v1694224709/1624889017952_tnwrsc.jpg)
 
 ---
 
@@ -55,12 +59,11 @@ build-lists: true
   - Use Phoenix LiveView to build native iOS Apps
     - https://github.com/liveview-native/liveview-client-swiftui
 
-## https://github.com/liveview-native/liveview-client-swiftui
+---
 
 # When?
 
-- Release of version 0.1 today!!
-- Next milestone for version 0.2:
+- For LiveView Native 0.2 release we expect:
   - Improving onboarding experience
   - Cohesive tutorials and documentation
   - LiveViewNative is experimental and will likely see rapid evolution and changes
